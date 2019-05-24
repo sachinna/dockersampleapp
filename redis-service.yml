@@ -11,4 +11,4 @@ spec:
     app: demo-voting-app
   ports:
   - port: 6379
-    targetPort: 6779
+    targetPort: 6379
